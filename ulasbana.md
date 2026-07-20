@@ -1,7 +1,7 @@
 ---
 layout: page
 #title: Sosyal Ağlar
-subtitle: ...
+subtitle: <pre>Tüm destek ve talaperleriniz için mail/eposta iletebilirsiniz.</pre>
 ---
  <ul class ="slinks">
     <li>
@@ -44,11 +44,10 @@ subtitle: ...
    <li>
   <a href="mailto:bysiskur@gmail.com" class="email">
     <i class="fa fa-envelope" aria-hidden="true"></i>
-    <span> -Mail Gönder</span>
+    <span> -MailGönder</span>
   </a>
 </li>
-<br/>
-<pre>Tüm destek ve talaperleriniz için mail/eposta iletebilirsiniz.</pre>
+
 
 
 
