@@ -44,7 +44,7 @@ subtitle: <pre>Tüm destek ve talaperleriniz için mail/eposta iletebilirsiniz.<
    <li>
   <a href="mailto:bysiskur@gmail.com" class="email">
     <i class="fa fa-envelope" aria-hidden="true"></i>
-    <span> -MailGönder</span>
+    <span> Email</span>
   </a>
 </li>
 
