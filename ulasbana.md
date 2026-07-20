@@ -41,6 +41,13 @@ subtitle: ...
     </a>
   </li>
 
+   <li>
+  <a href="mailto:bysiskur@gmail.com" class="email">
+    <i class="fa fa-envelope" aria-hidden="true"></i>
+    <span> Destek /Talep - Mail Gönder</span>
+  </a>
+</li>
+
 
 
 
