@@ -5,8 +5,6 @@ subtitle: Gizlilik ve kişisel verilerin korunması
 permalink: /kuran-ayet-widget-gizlilik/
 ---
 
-# Kuran Ayet Widget Gizlilik Politikası
-
 **Son güncelleme tarihi: 22 Temmuz 2026**
 
 Bu Gizlilik Politikası, **Kuran Ayet Widget** uygulamasının kullanıcı bilgilerini nasıl işlediğini ve kullanıcı gizliliğini nasıl koruduğunu açıklamaktadır.
@@ -77,97 +75,94 @@ Uygulama günlük ayet veya hatırlatma bildirimleri gönderebilir.
 
 Bildirimler yalnızca kullanıcının açık izin vermesi durumunda etkinleştirilir.
 
-Kullanıcı bildirim iznini istediği zaman şu bölümden değiştirebilir:
+Kullanıcı bildirim iznini istediği zaman aşağıdaki bölümden değiştirebilir:
 
 ```text
 iPhone Ayarlar > Bildirimler > Kuran Ayet Widget
+```
 
-7. Abonelikler ve uygulama içi satın almalar
+## 7. Abonelikler ve uygulama içi satın almalar
+
 Uygulamada premium özellikler veya abonelik seçenekleri sunulabilir.
 
 Tüm satın alma ve abonelik işlemleri Apple App Store ve StoreKit altyapısı üzerinden gerçekleştirilir.
 
 Geliştirici aşağıdaki bilgileri göremez veya saklayamaz:
 
-Kredi kartı numarası
-
-Banka kartı bilgileri
-
-Apple hesabı parolası
-
-Kullanıcının ödeme bilgilerinin tamamı
+- Kredi kartı numarası
+- Banka kartı bilgileri
+- Apple hesabı parolası
+- Kullanıcının ödeme bilgilerinin tamamı
 
 Uygulama yalnızca Apple tarafından sağlanan satın alma durumunu kullanarak kullanıcının premium özelliklere erişim hakkını kontrol edebilir.
 
-8. Reklam ve kullanıcı takibi
+## 8. Reklam ve kullanıcı takibi
+
 Kuran Ayet Widget uygulamasının mevcut sürümünde üçüncü taraf reklam hizmetleri kullanılmamaktadır.
 
 Uygulama:
 
-Kullanıcıyı diğer uygulamalarda takip etmez.
+- Kullanıcıyı diğer uygulamalarda takip etmez.
+- Reklam profili oluşturmaz.
+- Kullanıcı verilerini veri aracılarına satmaz.
+- Hedefli reklam amacıyla kişisel veri işlemez.
 
-Reklam profili oluşturmaz.
+Gelecekte reklam veya analiz hizmeti eklenmesi durumunda bu Gizlilik Politikası ve App Store gizlilik bildirimleri güncellenecektir.
 
-Kullanıcı verilerini veri aracılarına satmaz.
+## 9. Analiz ve hata kayıtları
 
-Hedefli reklam amacıyla kişisel veri işlemez.
-
-Gelecekte reklam veya analiz hizmeti eklenmesi durumunda bu Gizlilik Politikası güncellenecektir.
-
-9. Analiz ve hata kayıtları
-Uygulama içerisinde üçüncü taraf kullanıcı davranışı takip sistemi kullanılmıyorsa, geliştirici kullanıcıların uygulama içindeki hareketlerini takip etmez.
+Uygulama içerisinde üçüncü taraf kullanıcı davranışı takip sistemi kullanılmıyorsa geliştirici, kullanıcıların uygulama içindeki hareketlerini takip etmez.
 
 Apple tarafından geliştiriciye sağlanan anonimleştirilmiş çökme ve performans raporları, yalnızca kullanıcının Apple cihaz ayarlarında paylaşım izni vermesi durumunda alınabilir.
 
 Bu bilgiler yalnızca uygulama hatalarının giderilmesi ve performansın iyileştirilmesi amacıyla kullanılabilir.
 
-10. Çocukların gizliliği
+## 10. Çocukların gizliliği
+
 Uygulama çocuklardan bilerek kişisel bilgi toplamaz.
 
 Uygulama içerisinde çocuklardan aşağıdaki bilgiler istenmez:
 
-Ad ve soyadı
+- Ad ve soyadı
+- Telefon numarası
+- E-posta adresi
+- Konum bilgisi
+- Fotoğraf
+- Ses kaydı
+- Rehber bilgisi
 
-Telefon numarası
+Bir ebeveyn veya yasal vasi, çocuğa ait kişisel bir bilginin işlendiğini düşünüyorsa geliştiriciyle iletişime geçebilir.
 
-E-posta adresi
+## 11. Veri güvenliği
 
-Konum bilgisi
-
-Fotoğraf
-
-Ses kaydı
-
-Rehber bilgisi
-
-Bir ebeveyn veya yasal vasi, çocuğa ait bir bilginin işlendiğini düşünüyorsa geliştiriciyle iletişime geçebilir.
-
-11. Veri güvenliği
 Uygulama kapsamında kullanılan bilgilerin yetkisiz erişime, değiştirilmeye veya açıklanmaya karşı korunması için makul teknik önlemler uygulanır.
 
 Bununla birlikte internet üzerinden yapılan hiçbir aktarımın yüzde yüz güvenli olduğu garanti edilemez.
 
-12. Kullanıcı hakları
+## 12. Kullanıcı hakları ve verilerin silinmesi
+
 Kullanıcılar aşağıdaki konularda geliştiriciyle iletişime geçebilir:
 
-Verilerinin işlenip işlenmediğini öğrenme
+- Verilerinin işlenip işlenmediğini öğrenme
+- İşlenen bilgiler hakkında açıklama isteme
+- Yanlış bilgilerin düzeltilmesini talep etme
+- Uygulanabilir olduğu durumlarda verilerin silinmesini isteme
+- Gizlilikle ilgili soru veya şikâyet bildirme
 
-İşlenen bilgiler hakkında açıklama isteme
+Uygulama kullanıcı hesabı oluşturmadığı ve geliştirici sunucusunda kişisel veri saklamadığı için cihazda bulunan uygulama verileri, uygulamanın kaldırılmasıyla silinebilir.
 
-Yanlış bilgilerin düzeltilmesini talep etme
+## 13. Gizlilik politikasındaki değişiklikler
 
-Uygulanabilir olduğu durumlarda verilerin silinmesini isteme
-
-Gizlilikle ilgili soru veya şikâyet bildirme
-
-Uygulama kullanıcı hesabı oluşturmadığı ve geliştirici sunucusunda kişisel veri saklamadığı için, cihazda bulunan uygulama verileri uygulamanın kaldırılmasıyla silinebilir.
-
-13. Gizlilik politikasındaki değişiklikler
 Uygulamaya yeni özellikler eklenmesi, kullanılan hizmetlerin değişmesi veya yasal gerekliliklerin güncellenmesi durumunda bu Gizlilik Politikası güncellenebilir.
 
 Güncel politika her zaman bu sayfada yayımlanacaktır.
 
-14. İletişim
-Geliştirici: Hasan Pehlivanlar
-E-posta: bysiskur@gmail.com
-Ülke: Türkiye
+## 14. İletişim
+
+**Geliştirici:** Hasan Pehlivanlar  
+**E-posta:** [bysiskur@gmail.com](mailto:bysiskur@gmail.com)  
+**Ülke:** Türkiye
+
+---
+
+[← Uygulamalar sayfasına dön]({{ '/uygulamalar/' | relative_url }})
