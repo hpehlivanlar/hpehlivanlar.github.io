@@ -36,7 +36,7 @@ Bununla birlikte Apple Intelligence tüm iPhone modellerinde çalışmadı. Dona
 
 ## Sonuç
 
-İOS 18, yıllardır sınırlı kalan Ana Ekran özelleştirmesini genişletirken Apple’ın yapay zekâ stratejisinin de temelini oluşturdu. Güncellemenin en önemli yönü tek bir özellik değil; kişiselleştirme, iletişim ve yapay zekânın aynı sürümde birleşmesiydi.
+iOS 18, yıllardır sınırlı kalan Ana Ekran özelleştirmesini genişletirken Apple’ın yapay zekâ stratejisinin de temelini oluşturdu. Güncellemenin en önemli yönü tek bir özellik değil; kişiselleştirme, iletişim ve yapay zekânın aynı sürümde birleşmesiydi.
 
 ---
 
