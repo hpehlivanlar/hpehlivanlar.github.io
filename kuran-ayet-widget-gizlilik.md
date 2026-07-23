@@ -5,7 +5,7 @@ subtitle: Gizlilik ve kişisel verilerin korunması
 permalink: /kuran-ayet-widget-gizlilik/
 ---
 
-**Son güncelleme tarihi: 22 Temmuz 2026**
+**Son güncelleme tarihi: 23 Temmuz 2026**
 
 Bu Gizlilik Politikası, **Kuran Ayet Widget** uygulamasının kullanıcı bilgilerini nasıl işlediğini ve kullanıcı gizliliğini nasıl koruduğunu açıklamaktadır.
 
@@ -157,7 +157,13 @@ Uygulamaya yeni özellikler eklenmesi, kullanılan hizmetlerin değişmesi veya 
 
 Güncel politika her zaman bu sayfada yayımlanacaktır.
 
-## 14. İletişim
+## 14. Kullanım Koşulları
+
+Kuran Ayet Widget uygulamasının abonelik ve kullanım şartları için Apple'ın standart Kullanım Koşulları geçerlidir:
+
+[Apple Standart Kullanım Koşulları (EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+
+## 15. İletişim
 
 **Geliştirici:** Hasan Pehlivanlar  
 **E-posta:** [bysiskur@gmail.com](mailto:bysiskur@gmail.com)  
