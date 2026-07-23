@@ -5,7 +5,7 @@ subtitle: Gizlilik ve kişisel verilerin korunması
 permalink: /kirmizi-balik-gizlilik/
 ---
 
-**Son güncelleme tarihi: 22 Temmuz 2026**
+**Son güncelleme tarihi: 23 Temmuz 2026**
 
 Bu Gizlilik Politikası, **Kırmızı Balık** mobil oyununun kullanıcı bilgilerini nasıl işlediğini ve kullanıcı gizliliğini nasıl koruduğunu açıklamaktadır.
 
@@ -134,7 +134,13 @@ Game Center verileri Apple hesabı ve Game Center ayarları üzerinden yönetili
 
 Oyuna reklam, analiz, çevrim içi hesap, bulut kaydı veya yeni bir üçüncü taraf hizmeti eklenmesi durumunda bu Gizlilik Politikası güncellenecektir.
 
-## 14. İletişim
+## 14. Kullanım Koşulları
+
+Kırmızı Balık uygulamasının kullanım ve satın alma şartları için Apple'ın standart Kullanım Koşulları geçerlidir:
+
+[Apple Standart Kullanım Koşulları (EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+
+## 15. İletişim
 
 **Geliştirici:** Hasan Pehlivanlar  
 **E-posta:** [bysiskur@gmail.com](mailto:bysiskur@gmail.com)  
