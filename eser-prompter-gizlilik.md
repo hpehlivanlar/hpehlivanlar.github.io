@@ -5,29 +5,32 @@ subtitle: Gizlilik ve kişisel verilerin korunması
 permalink: /eser-prompter-gizlilik/
 ---
 
-**Son güncelleme tarihi: 22 Temmuz 2026**
+**Son güncelleme tarihi: 23 Temmuz 2026**
 
 Bu Gizlilik Politikası, **Eser Prompter** uygulamasının kullanıcı bilgilerini nasıl işlediğini ve kullanıcı gizliliğini nasıl koruduğunu açıklamaktadır.
 
 ## 1. Uygulama hakkında
 
-Eser Prompter; türkü, şiir, konuşma, sunum ve diğer metinlerin kaydedilmesini, düzenlenmesini ve otomatik kayan teleprompter ekranında görüntülenmesini sağlayan bir iOS uygulamasıdır.
+Eser Prompter; türkü, şiir, konuşma, sunum ve diğer metinlerin kaydedilmesini, düzenlenmesini, potpori oluşturulmasını ve otomatik kayan teleprompter ekranında görüntülenmesini sağlayan bir iOS uygulamasıdır.
 
 ## 2. Kullanıcı tarafından oluşturulan içerikler
 
-Kullanıcı uygulama içerisinde aşağıdaki içerikleri oluşturabilir:
+Kullanıcı uygulama içerisinde aşağıdaki içerikleri oluşturabilir veya düzenleyebilir:
 
 - Eser başlığı
-- Türkü veya şiir sözleri
-- Konuşma metinleri
-- Yöre bilgisi
-- Kaynak kişi veya sanatçı bilgisi
+- Türkü, şiir veya konuşma metni
+- Yöre, kaynak kişi veya sanatçı bilgisi
 - Kullanıcı notları
-- Teleprompter görüntüleme ayarları
+- Eser sıralaması ve favori durumu
+- Kayıtlı ve favori potporiler
+- Potpori içindeki eser sırası
+- Teleprompter yazı boyutu, kaydırma hızı ve son konumu
+- Eserin giriş, kıtalar arası saz ve çıkış süreleri
+- Manuel, ölçülmüş veya otomatik hesaplanan eser süresi
 
 Bu bilgiler varsayılan olarak kullanıcının cihazında yerel olarak saklanır.
 
-Kullanıcı tarafından oluşturulan metinler geliştiricinin sunucularına gönderilmez ve geliştirici tarafından görüntülenmez.
+Kullanıcı tarafından oluşturulan eserler, metinler ve potporiler geliştiricinin sunucularına gönderilmez ve geliştirici tarafından görüntülenmez.
 
 ## 3. Belge ve dosya erişimi
 
@@ -37,16 +40,16 @@ Bir dosya seçildiğinde:
 
 - Yalnızca kullanıcının seçtiği dosyaya erişilir.
 - Diğer dosyalar otomatik olarak taranmaz.
-- Dosya içeriği uygulama işlevini gerçekleştirmek amacıyla işlenir.
+- Dosya içeriği yalnızca uygulama işlevini gerçekleştirmek amacıyla işlenir.
 - İçerik geliştirici sunucusuna gönderilmez.
 
 ## 4. Kamera ve mikrofon erişimi
 
-Uygulamada kamera veya video kayıt özelliği bulunması durumunda kamera ve mikrofon yalnızca kullanıcının açık izniyle kullanılabilir.
+Uygulamada kamera, video veya gerçek icra süresi ölçümüyle ilişkili bir kayıt özelliği bulunması durumunda kamera ve mikrofon yalnızca kullanıcının açık izniyle kullanılabilir.
 
 Kamera veya mikrofon erişimi:
 
-- Kullanıcının kayıt başlatmasıyla etkinleşir.
+- Yalnızca kullanıcının ilgili özelliği başlatmasıyla etkinleşir.
 - Arka planda gizlice kullanılmaz.
 - Kayıtlar geliştirici sunucusuna gönderilmez.
 - Kullanıcının seçimine göre cihazda saklanabilir.
@@ -66,7 +69,7 @@ Uygulama, kullanıcının izni olmadan fotoğraf arşivini taramaz veya içerikl
 
 ## 6. Toplanan kişisel bilgiler
 
-Eser Prompter uygulaması doğrudan aşağıdaki kişisel bilgileri talep etmez:
+Eser Prompter doğrudan aşağıdaki kişisel bilgileri talep etmez:
 
 - Ad ve soyadı
 - Telefon numarası
@@ -82,21 +85,34 @@ Uygulama içerisinde kullanıcı hesabı oluşturulmamaktadır.
 
 Aşağıdaki bilgiler cihazda yerel olarak saklanabilir:
 
-- Kullanıcının eklediği eserler
-- Teleprompter hızı
+- Kullanıcının eklediği veya düzenlediği eserler
+- Kayıtlı ve favori potporiler
+- Eserlerin ve potporilerin sıralaması
+- Favori eser bilgileri
+- Teleprompter kaydırma hızı
 - Yazı boyutu
 - Yazı ve arka plan renkleri
 - Metin hizalama tercihleri
-- Son açılan eser
+- Son açılan eser ve son kaydırma konumu
+- Eser giriş, saz arası ve çıkış süreleri
+- Manuel veya ölçülmüş eser süresi
 - Uygulama tercihleri
 
 Bu veriler kullanıcıyı reklam amacıyla takip etmek için kullanılmaz.
 
-Uygulamanın silinmesi durumunda cihazda saklanan yerel uygulama verileri de silinebilir.
+Uygulamanın cihazdan silinmesi durumunda yerel uygulama verileri de silinebilir. iCloud veya cihaz yedeği kullanılıyorsa verilerin korunması Apple'ın yedekleme ayarlarına bağlı olabilir.
 
-## 8. Abonelikler ve uygulama içi satın almalar
+## 8. Müzik bağlantıları ve harici servisler
 
-Uygulamada premium özellik veya abonelik sunulması durumunda ödeme işlemleri Apple App Store ve StoreKit üzerinden gerçekleştirilir.
+Uygulamanın bir sürümünde kullanıcı tarafından YouTube, YouTube Music, Spotify, Apple Music, SoundCloud veya benzeri bir müzik bağlantısı eklenmesine izin verilmesi durumunda bağlantı yalnızca kullanıcının açık işlemiyle işlenir.
+
+Bu bağlantılar, eser bilgisini veya süre bilgisini bulmak amacıyla ilgili hizmete iletilebilir. İlgili hizmetlerin kendi gizlilik politikaları ve kullanım koşulları geçerlidir.
+
+Uygulama, kullanıcının harici müzik hesabı parolasını istemez veya saklamaz. Desteklenmeyen bağlantılarda kullanıcıdan süreyi manuel olarak girmesi istenebilir.
+
+## 9. Abonelikler ve uygulama içi satın almalar
+
+Eser Prompter'da aylık veya yıllık otomatik yenilenen abonelik sunulabilir. Ödeme ve abonelik işlemleri Apple App Store ve StoreKit üzerinden gerçekleştirilir.
 
 Geliştirici aşağıdaki bilgileri göremez veya saklayamaz:
 
@@ -105,11 +121,13 @@ Geliştirici aşağıdaki bilgileri göremez veya saklayamaz:
 - Apple hesabı parolası
 - Ödeme bilgilerinin tamamı
 
-Uygulama yalnızca premium erişim durumunu kontrol etmek amacıyla Apple tarafından sağlanan satın alma bilgilerini kullanabilir.
+Uygulama yalnızca premium erişim durumunu kontrol etmek, satın almayı doğrulamak ve satın alımları geri yüklemek amacıyla Apple tarafından sağlanan abonelik bilgilerini kullanabilir.
 
-## 9. Reklam ve takip
+Abonelik; kullanıcı tarafından App Store hesap ayarlarından yönetilebilir veya iptal edilebilir. Otomatik yenileme, mevcut abonelik döneminin sona ermesinden en az 24 saat önce kapatılmadığı sürece devam edebilir.
 
-Eser Prompter uygulamasının mevcut sürümünde üçüncü taraf reklam veya kullanıcı takip hizmeti kullanılmamaktadır.
+## 10. Reklam ve takip
+
+Eser Prompter'ın mevcut sürümünde üçüncü taraf reklam veya kullanıcı takip hizmeti kullanılmamaktadır.
 
 Uygulama:
 
@@ -118,45 +136,53 @@ Uygulama:
 - Kullanıcı metinlerini reklam amacıyla işlemez.
 - Kullanıcı verilerini veri aracılarına satmaz.
 
-## 10. Analiz ve hata raporları
+## 11. Analiz ve hata raporları
 
 Apple tarafından sağlanan anonimleştirilmiş hata ve performans raporları, kullanıcının cihaz ayarlarında paylaşım izni vermesi halinde geliştiriciyle paylaşılabilir.
 
-Bu bilgiler uygulamadaki teknik sorunları düzeltmek amacıyla kullanılabilir.
+Bu bilgiler yalnızca uygulamadaki teknik sorunları belirlemek ve düzeltmek amacıyla kullanılabilir.
 
-Kullanıcının oluşturduğu eser ve metinlerin içeriği hata raporlarında bilinçli olarak toplanmaz.
+Kullanıcının oluşturduğu eser, metin ve potpori içerikleri bilinçli olarak hata raporlarına eklenmez.
 
-## 11. Verilerin paylaşılması
+## 12. Verilerin paylaşılması
 
-Kullanıcı tarafından oluşturulan içerikler üçüncü taraflarla paylaşılmaz.
+Kullanıcı tarafından oluşturulan içerikler geliştirici tarafından üçüncü taraflarla paylaşılmaz.
 
-Kullanıcı, iOS paylaşım menüsünü kullanarak bir metni veya dosyayı kendisi paylaşırsa bu paylaşım tamamen kullanıcının kontrolündedir.
+Kullanıcı, iOS paylaşım menüsünü kullanarak bir metni veya dosyayı kendisi paylaşırsa bu işlem tamamen kullanıcının kontrolündedir.
 
-## 12. Çocukların gizliliği
+Harici bir müzik bağlantısı kullanıldığında yalnızca gerekli bağlantı veya eser sorgusu ilgili hizmete iletilebilir.
+
+## 13. Çocukların gizliliği
 
 Uygulama çocuklardan bilerek kişisel bilgi toplamaz.
 
-Çocuklar tarafından uygulamaya eklenen metinler cihazda yerel olarak saklanır ve geliştiriciye gönderilmez.
+Çocuklar tarafından uygulamaya eklenen metinler ve potporiler cihazda yerel olarak saklanır ve geliştiriciye gönderilmez.
 
-## 13. Veri güvenliği
+## 14. Veri güvenliği
 
 Kullanıcı tarafından oluşturulan içeriklerin korunması için iOS tarafından sağlanan uygulama veri alanı ve güvenlik mekanizmaları kullanılır.
 
 Kullanıcı, cihaz güvenliğini korumak için ekran kilidi, Face ID veya parola gibi cihaz güvenlik özelliklerini kullanmalıdır.
 
-## 14. Kullanıcı hakları ve veri silme
+## 15. Kullanıcı hakları ve veri silme
 
-Kullanıcı uygulama içerisinde oluşturduğu eserleri istediği zaman silebilir.
+Kullanıcı uygulama içerisinde oluşturduğu eserleri, potporileri ve diğer yerel verileri istediği zaman silebilir.
 
 Tüm yerel uygulama verilerinin kaldırılması için uygulama cihazdan silinebilir.
 
 Gizlilik talepleri için geliştiriciyle iletişime geçilebilir.
 
-## 15. Gizlilik politikasındaki değişiklikler
+## 16. Gizlilik politikasındaki değişiklikler
 
-Uygulamaya yeni özellikler, analiz hizmetleri, reklam sistemleri veya çevrim içi senkronizasyon özellikleri eklenmesi durumunda bu politika güncellenecektir.
+Uygulamaya yeni özellikler, analiz hizmetleri, reklam sistemleri, çevrim içi senkronizasyon veya yeni harici servis bağlantıları eklenmesi durumunda bu politika güncellenebilir.
 
-## 16. İletişim
+## 17. Kullanım Koşulları
+
+Eser Prompter'ın abonelik ve kullanım şartları için Apple'ın standart Kullanım Koşulları geçerlidir:
+
+[Apple Standart Kullanım Koşulları (EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+
+## 18. İletişim
 
 **Geliştirici:** Hasan Pehlivanlar  
 **E-posta:** [bysiskur@gmail.com](mailto:bysiskur@gmail.com)  
