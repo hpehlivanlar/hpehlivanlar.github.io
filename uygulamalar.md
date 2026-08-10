@@ -68,6 +68,20 @@ Bu sayfada geliştirdiğim mobil uygulamaları, destek bağlantılarını ve uyg
 <div class="app-list">
 
   <div class="app-card">
+    <div class="app-icon">⚖️</div>
+    <h2>MevzuHakkım</h2>
+    <p>
+      Türkiye’deki mevzuata, Anayasa maddelerine ve ilgili resmî
+      kaynaklara erişimi kolaylaştıran AI destekli mevzuat araştırma
+      ve bilgilendirme uygulamasıdır.
+    </p>
+    <div class="app-links">
+      <a class="app-button privacy-button" href="https://hpehlivanlar.github.io/mevzuhakkim-gizlilik/">Detay / Gizlilik Politikası</a>
+      <a class="app-button contact-button" href="mailto:bysiskur@gmail.com?subject=MevzuHakkim%20Destek">Destek</a>
+    </div>
+  </div>
+
+  <div class="app-card">
     <div class="app-icon">📖</div>
     <h2>Kuran Ayet Widget</h2>
     <p>
@@ -106,20 +120,6 @@ Bu sayfada geliştirdiğim mobil uygulamaları, destek bağlantılarını ve uyg
     <div class="app-links">
       <a class="app-button privacy-button" href="{{ '/kirmizi-balik-gizlilik/' | relative_url }}">Gizlilik Politikası</a>
       <a class="app-button contact-button" href="mailto:bysiskur@gmail.com?subject=Kirmizi%20Balik%20Destek">Destek</a>
-    </div>
-  </div>
-
-  <div class="app-card">
-    <div class="app-icon">⚖️</div>
-    <h2>MevzuHakkım</h2>
-    <p>
-      Türkiye’deki mevzuata, Anayasa maddelerine ve ilgili resmî
-      kaynaklara erişimi kolaylaştıran AI destekli mevzuat araştırma
-      ve bilgilendirme uygulamasıdır.
-    </p>
-    <div class="app-links">
-      <a class="app-button privacy-button" href="{{ '/mevzuhakkim-gizlilik/' | relative_url }}">Gizlilik Politikası</a>
-      <a class="app-button contact-button" href="mailto:bysiskur@gmail.com?subject=MevzuHakkim%20Destek">Destek</a>
     </div>
   </div>
 
