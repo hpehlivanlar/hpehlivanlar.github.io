@@ -5,7 +5,7 @@ subtitle: Mobil uygulamalar ve gizlilik politikaları
 permalink: /uygulamalar/
 ---
 
-<!-- last-updated: 2026-08-10 20:10 TRT -->
+<!-- last-updated: 2026-08-10 20:22 TRT -->
 
 <style>
 .app-list {
@@ -69,7 +69,7 @@ Bu sayfada geliştirdiğim mobil uygulamaları, destek bağlantılarını ve uyg
 
 <div class="app-list">
 
-  <div class="app-card">
+  <div class="app-card" id="mevzuhakkim">
     <div class="app-icon">⚖️</div>
     <h2>MevzuHakkım</h2>
     <p>
@@ -78,26 +78,12 @@ Bu sayfada geliştirdiğim mobil uygulamaları, destek bağlantılarını ve uyg
       ve bilgilendirme uygulamasıdır.
     </p>
     <div class="app-links">
-      <a class="app-button privacy-button" href="https://hpehlivanlar.github.io/mevzuhakkim-gizlilik/">Detay / Gizlilik Politikası</a>
+      <a class="app-button privacy-button" href="https://hpehlivanlar.github.io/mevzuhakkim-gizlilik/">Gizlilik Politikası</a>
       <a class="app-button contact-button" href="mailto:bysiskur@gmail.com?subject=MevzuHakkim%20Destek">Destek</a>
     </div>
   </div>
 
-  <div class="app-card">
-    <div class="app-icon">📖</div>
-    <h2>Kuran Ayet Widget</h2>
-    <p>
-      Kur'an-ı Kerim ayetlerini, Türkçe meallerini ve sure bilgilerini
-      uygulama içinde, ana ekran widget'larında ve kilit ekranı
-      widget'larında görüntülemeyi sağlayan iOS uygulamasıdır.
-    </p>
-    <div class="app-links">
-      <a class="app-button privacy-button" href="{{ '/kuran-ayet-widget-gizlilik/' | relative_url }}">Gizlilik Politikası</a>
-      <a class="app-button contact-button" href="mailto:bysiskur@gmail.com?subject=Kuran%20Ayet%20Widget%20Destek">Destek</a>
-    </div>
-  </div>
-
-  <div class="app-card">
+  <div class="app-card" id="eser-prompter">
     <div class="app-icon">🎤</div>
     <h2>Eser Prompter</h2>
     <p>
@@ -111,7 +97,7 @@ Bu sayfada geliştirdiğim mobil uygulamaları, destek bağlantılarını ve uyg
     </div>
   </div>
 
-  <div class="app-card">
+  <div class="app-card" id="kirmizi-balik">
     <div class="app-icon">🐟</div>
     <h2>Kırmızı Balık</h2>
     <p>
@@ -122,6 +108,20 @@ Bu sayfada geliştirdiğim mobil uygulamaları, destek bağlantılarını ve uyg
     <div class="app-links">
       <a class="app-button privacy-button" href="{{ '/kirmizi-balik-gizlilik/' | relative_url }}">Gizlilik Politikası</a>
       <a class="app-button contact-button" href="mailto:bysiskur@gmail.com?subject=Kirmizi%20Balik%20Destek">Destek</a>
+    </div>
+  </div>
+
+  <div class="app-card" id="kuran-ayet-widget">
+    <div class="app-icon">📖</div>
+    <h2>Kuran Ayet Widget</h2>
+    <p>
+      Kur'an-ı Kerim ayetlerini, Türkçe meallerini ve sure bilgilerini
+      uygulama içinde, ana ekran widget'larında ve kilit ekranı
+      widget'larında görüntülemeyi sağlayan iOS uygulamasıdır.
+    </p>
+    <div class="app-links">
+      <a class="app-button privacy-button" href="{{ '/kuran-ayet-widget-gizlilik/' | relative_url }}">Gizlilik Politikası</a>
+      <a class="app-button contact-button" href="mailto:bysiskur@gmail.com?subject=Kuran%20Ayet%20Widget%20Destek">Destek</a>
     </div>
   </div>
 
