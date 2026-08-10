@@ -22,6 +22,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
+      - name: Disable legacy local Gemfile for Pages build
+        run: |
+          if [ -f Gemfile ]; then mv Gemfile Gemfile.legacy; fi
+          if [ -f Gemfile.lock ]; then mv Gemfile.lock Gemfile.lock.legacy; fi
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
