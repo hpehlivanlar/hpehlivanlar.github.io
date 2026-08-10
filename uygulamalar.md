@@ -109,6 +109,20 @@ Bu sayfada geliştirdiğim mobil uygulamaları, destek bağlantılarını ve uyg
     </div>
   </div>
 
+  <div class="app-card">
+    <div class="app-icon">⚖️</div>
+    <h2>MevzuHakkım</h2>
+    <p>
+      Türkiye’deki mevzuata, Anayasa maddelerine ve ilgili resmî
+      kaynaklara erişimi kolaylaştıran AI destekli mevzuat araştırma
+      ve bilgilendirme uygulamasıdır.
+    </p>
+    <div class="app-links">
+      <a class="app-button privacy-button" href="{{ '/mevzuhakkim-gizlilik/' | relative_url }}">Gizlilik Politikası</a>
+      <a class="app-button contact-button" href="mailto:bysiskur@gmail.com?subject=MevzuHakkim%20Destek">Destek</a>
+    </div>
+  </div>
+
 </div>
 
 ---
