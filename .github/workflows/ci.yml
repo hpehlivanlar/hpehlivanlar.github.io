@@ -18,24 +18,34 @@ jobs:
   build:
     name: Build Jekyll
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v6
 
-      - name: Disable legacy local Gemfile for Pages build
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+
+      - name: Install Jekyll and plugins
         run: |
-          if [ -f Gemfile ]; then mv Gemfile Gemfile.legacy; fi
-          if [ -f Gemfile.lock ]; then mv Gemfile.lock Gemfile.lock.legacy; fi
+          gem install jekyll -v 4.4.1 --no-document
+          gem install jekyll-paginate -v 1.1.0 --no-document
+          gem install jekyll-sitemap -v 1.4.0 --no-document
+          gem install kramdown-parser-gfm --no-document
+          gem install webrick --no-document
+
+      - name: Build site
+        run: |
+          rm -rf _site
+          jekyll build --future --destination ./_site
+          test -f _site/index.html
+          test -f _site/uygulamalar/index.html
+          grep -q "MevzuHakkım" _site/uygulamalar/index.html
 
       - name: Setup Pages
-        id: pages
         uses: actions/configure-pages@v5
-
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
@@ -49,6 +59,9 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
+    permissions:
+      pages: write
+      id-token: write
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
