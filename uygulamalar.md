@@ -5,6 +5,8 @@ subtitle: Mobil uygulamalar ve gizlilik politikaları
 permalink: /uygulamalar/
 ---
 
+<!-- last-updated: 2026-08-10 20:10 TRT -->
+
 <style>
 .app-list {
   display: grid;
