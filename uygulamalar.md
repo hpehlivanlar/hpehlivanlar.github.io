@@ -5,7 +5,7 @@ subtitle: Mobil uygulamalar ve gizlilik politikaları
 permalink: /uygulamalar/
 ---
 
-<!-- last-updated: 2026-08-10 20:22 TRT -->
+<!-- last-updated: 2026-08-13 01:41 TRT -->
 
 <style>
 .app-list {
@@ -68,6 +68,20 @@ permalink: /uygulamalar/
 Bu sayfada geliştirdiğim mobil uygulamaları, destek bağlantılarını ve uygulamalara ait gizlilik politikalarını inceleyebilirsiniz.
 
 <div class="app-list">
+
+  <div class="app-card" id="dudi">
+    <div class="app-icon">🧸</div>
+    <h2>DuDi</h2>
+    <p>
+      İki ayıcığı labirentin kalbinde buluşturan; 100 bölüm, tek ve iki
+      oyunculu oyun modları ile 10 farklı sıcak yuva alanı sunan sevimli
+      bir iOS bulmaca oyunudur. İlk 10 bölüm ücretsiz oynanabilir.
+    </p>
+    <div class="app-links">
+      <a class="app-button privacy-button" href="{{ '/kalp-koprusu-gizlilik/' | relative_url }}">Gizlilik Politikası</a>
+      <a class="app-button contact-button" href="{{ '/ulasbana/' | relative_url }}">Destek</a>
+    </div>
+  </div>
 
   <div class="app-card" id="mevzuhakkim">
     <div class="app-icon">⚖️</div>
