@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#383838"/>
+  <rect width="10" height="64" rx="5" fill="#0085ff"/>
+  <text x="37" y="41" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" fill="#ffffff">HP</text>
+</svg>
