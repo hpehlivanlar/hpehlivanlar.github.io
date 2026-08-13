@@ -62,7 +62,7 @@ social-network-links:
 #  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
+#  steam: yourname
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
@@ -156,21 +156,19 @@ footer-hover-col: "#0085A1"
 # --- Web Analytics Section --- #
 #################################
 
-# Fill in your Google Analytics gtag.js ID to track your website using gtag
+# Fill in your Google Analytics gtag.js ID to track usage on your website using gtag
 #gtag: ""
 
-# Fill in your Google Analytics ID to track your website using Google Analytics
+# Fill in your Google Analytics ID to track usage on your website using Google Analytics
 #google_analytics: ""
 
-# Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
+# Fill in your Cloudflare Analytics beacon token
 #cloudflare_analytics: ""
 
 # Google Tag Manager ID
 #gtm: ""
 
 # Matomo (aka Piwik) Web statistics
-# Uncomment the following section to enable Matomo. The opt-out parameter controls
-# whether or not you want to allow users to opt out of tracking.
 #matomo:
 #  site_id: "9"
 #  uri: "demo.wiki.pro"
@@ -180,23 +178,14 @@ footer-hover-col: "#0085A1"
 # --- Comments --- #
 ####################
 
-# To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
 #disqus: ""
-
-# To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
-
-# To use CommentBox, sign up for a Project ID
 #commentbox: ""
-
-# To use Utterances comments:
 #utterances:
 #  repository:
 #  issue-term: title
 #  theme: github-light
 #  label: blog-comments
-
-# To use Staticman comments:
 #staticman:
 #  repository :
 #  branch     : master
@@ -204,8 +193,6 @@ footer-hover-col: "#0085A1"
 #  reCaptcha:
 #    siteKey  :
 #    secret   :
-
-# To use giscus comments:
 #giscus:
 #  hostname: giscus.app
 #  repository:
@@ -221,18 +208,15 @@ footer-hover-col: "#0085A1"
 # --- Misc --- #
 ################
 
-# Ruby Date Format to show dates of posts
 date_format: "%B %-d, %Y"
-
-# Facebook App ID
-#fb_app_id: ""
 
 #################################################################################
 # --- You don't need to touch anything below here (but you can if you want) --- #
 #################################################################################
 
-# Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+# Output options
+timezone: "Europe/Istanbul"
+future: true
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -241,7 +225,6 @@ paginate: 5
 kramdown:
   input: GFM
 
-# Default YAML values (more information on Jekyll's site)
 defaults:
   -
     scope:
@@ -257,7 +240,6 @@ defaults:
     values:
       layout: "page"
 
-# Exclude these files from production site
 exclude:
   - CHANGELOG.md
   - CNAME
