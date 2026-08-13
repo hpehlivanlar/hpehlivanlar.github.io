@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#7C2D12"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+<linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F59E0B"/><stop offset="1" stop-color="#7C2D12"/></linearGradient></defs>
+<rect width="1200" height="630" rx="40" fill="url(#g)"/>
+<circle cx="1060" cy="90" r="150" fill="white" opacity=".08"/><circle cx="150" cy="570" r="190" fill="white" opacity=".06"/>
+<rect x="360" y="90" width="480" height="250" rx="28" fill="#101828" stroke="white" stroke-width="5"/><path d="M410 155h210M410 210h300M410 265h240" stroke="white" stroke-width="16" stroke-linecap="round" opacity=".9"/><circle cx="760" cy="150" r="22" fill="#fff"/><text x="600" y="325" text-anchor="middle" fill="white" font-size="56" font-family="Arial,Helvetica,sans-serif" font-weight="700">App Store Connect API 4.4.1</text><text x="600" y="407" text-anchor="middle" fill="white" font-size="56" font-family="Arial,Helvetica,sans-serif" font-weight="700">ve TestFlight: 2026'da Yayın</text><text x="600" y="489" text-anchor="middle" fill="white" font-size="56" font-family="Arial,Helvetica,sans-serif" font-weight="700">Akışı Nereye Gidiyor?</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#1F2937"/><stop offset="1" stop-color="#DC2626"/></linearGradient>
+<linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#DC2626"/><stop offset="1" stop-color="#1F2937"/></linearGradient></defs>
+<rect width="1200" height="630" rx="40" fill="url(#g)"/>
+<circle cx="1060" cy="90" r="150" fill="white" opacity=".08"/><circle cx="150" cy="570" r="190" fill="white" opacity=".06"/>
+<rect x="485" y="80" width="230" height="260" rx="42" fill="#0b1220" stroke="white" stroke-width="5"/><rect x="515" y="115" width="170" height="180" rx="18" fill="url(#g2)"/><circle cx="600" cy="318" r="8" fill="white"/><text x="600" y="325" text-anchor="middle" fill="white" font-size="56" font-family="Arial,Helvetica,sans-serif" font-weight="700">iPhone 18 Lansman Takvimi</text><text x="600" y="407" text-anchor="middle" fill="white" font-size="56" font-family="Arial,Helvetica,sans-serif" font-weight="700">Değişiyor mu? Pro Modeller</text><text x="600" y="489" text-anchor="middle" fill="white" font-size="56" font-family="Arial,Helvetica,sans-serif" font-weight="700">2026, Standart Model 2027</text>
+</svg>
