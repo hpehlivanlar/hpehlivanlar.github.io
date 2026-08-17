@@ -5,7 +5,7 @@ subtitle: Mobil uygulamalar ve gizlilik politikaları
 permalink: /uygulamalar/
 ---
 
-<!-- last-updated: 2026-08-13 01:41 TRT -->
+<!-- last-updated: 2026-08-17 09:20 TRT -->
 
 <style>
 .app-list {
@@ -68,6 +68,20 @@ permalink: /uygulamalar/
 Bu sayfada geliştirdiğim mobil uygulamaları, destek bağlantılarını ve uygulamalara ait gizlilik politikalarını inceleyebilirsiniz.
 
 <div class="app-list">
+
+  <div class="app-card" id="adkal">
+    <div class="app-icon">🛡️</div>
+    <h2>AdKal</h2>
+    <p>
+      iPhone ve iPad’de bilinen reklam, izleyici ve zararlı alan adlarını
+      DNS düzeyinde filtreleyen; Wi-Fi ve mobil veride şifreli
+      DNS-over-HTTPS koruması sunan iOS uygulamasıdır.
+    </p>
+    <div class="app-links">
+      <a class="app-button privacy-button" href="{{ '/adkal-gizlilik/' | relative_url }}">Gizlilik Politikası</a>
+      <a class="app-button contact-button" href="mailto:bysiskur@gmail.com?subject=AdKal%20Destek">Destek</a>
+    </div>
+  </div>
 
   <div class="app-card" id="dudi">
     <div class="app-icon">🧸</div>
