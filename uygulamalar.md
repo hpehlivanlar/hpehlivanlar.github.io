@@ -5,7 +5,7 @@ subtitle: Mobil uygulamalar ve gizlilik politikaları
 permalink: /uygulamalar/
 ---
 
-<!-- last-updated: 2026-08-17 09:20 TRT -->
+<!-- last-updated: 2026-08-21 04:38 TRT -->
 
 <style>
 .app-list {
@@ -68,6 +68,20 @@ permalink: /uygulamalar/
 Bu sayfada geliştirdiğim mobil uygulamaları, destek bağlantılarını ve uygulamalara ait gizlilik politikalarını inceleyebilirsiniz.
 
 <div class="app-list">
+
+  <div class="app-card" id="ilac-recetem">
+    <div class="app-icon">💊</div>
+    <h2>İlaç Reçetem</h2>
+    <p>
+      Özellikle okuma-yazma bilmeyen, görme güçlüğü yaşayan veya birden fazla
+      ilacı ayırt etmekte zorlanan kullanıcılar için renk, sembol, ilaç kutusu
+      fotoğrafı ve sesli bildirimlerle ilaç takibini kolaylaştıran iOS uygulamasıdır.
+    </p>
+    <div class="app-links">
+      <a class="app-button privacy-button" href="{{ '/ilac-recetem-gizlilik/' | relative_url }}">Gizlilik Politikası</a>
+      <a class="app-button contact-button" href="mailto:bysiskur@gmail.com?subject=Ilac%20Recetem%20Destek">Destek</a>
+    </div>
+  </div>
 
   <div class="app-card" id="adkal">
     <div class="app-icon">🛡️</div>
