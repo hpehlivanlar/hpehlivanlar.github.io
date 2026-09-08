@@ -141,20 +141,6 @@ Finansal Asistanım çocuklara yönelik bir uygulama olarak tasarlanmamıştır.
 
 Uygulamanın özellikleri, kullanılan servisler veya yasal gereklilikler değiştiğinde bu Gizlilik Politikası güncellenebilir. Güncel sürüm her zaman bu sayfada yayımlanacaktır.
 
-## 15. Kullanım Koşulları (EULA)
-
-Özel bir son kullanıcı lisans sözleşmesi belirtilmediği sürece Apple'ın standart Licensed Application End User License Agreement koşulları geçerlidir:
-
-[Apple Standart EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
-
-## 16. Destek ve iletişim
-
-**Geliştirici:** Hasan Pehlivanlar  
-**E-posta:** [bysiskur@gmail.com](mailto:bysiskur@gmail.com)  
-**Destek:** [Ulaş Bana]({{ '/ulasbana/' | relative_url }})  
-**Uygulamalar:** [Tüm uygulamalar]({{ '/uygulamalar/' | relative_url }})  
-**Ülke:** Türkiye
-
 ---
 
 # English Summary — Privacy Policy
@@ -172,5 +158,15 @@ Premium features may be offered as auto-renewable subscriptions through Apple's 
 For privacy or support questions, contact **bysiskur@gmail.com**.
 
 ---
+
+## Lisans (EULA) ve Destek
+
+Özel bir son kullanıcı lisans sözleşmesi belirtilmediği sürece Apple'ın standart **Licensed Application End User License Agreement (EULA)** koşulları geçerlidir.
+
+**Lisans / EULA:** [Apple Standart EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)  
+**Destek:** [Ulaş Bana]({{ '/ulasbana/' | relative_url }})  
+**E-posta:** [bysiskur@gmail.com](mailto:bysiskur@gmail.com)  
+**Geliştirici:** Hasan Pehlivanlar  
+**Ülke:** Türkiye
 
 [← Uygulamalar sayfasına dön]({{ '/uygulamalar/' | relative_url }})
