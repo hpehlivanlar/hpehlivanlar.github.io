@@ -5,7 +5,7 @@ subtitle: Mobil uygulamalar ve gizlilik politikaları
 permalink: /uygulamalar/
 ---
 
-<!-- last-updated: 2026-09-08 16:31 TRT -->
+<!-- last-updated: 2026-09-08 23:38 TRT -->
 
 <style>
 .app-list {
@@ -80,7 +80,6 @@ Bu sayfada geliştirdiğim mobil uygulamaları, destek bağlantılarını ve uyg
     <div class="app-links">
       <a class="app-button privacy-button" href="{{ '/finans-asistanim-gizlilik/' | relative_url }}">Gizlilik Politikası</a>
       <a class="app-button contact-button" href="{{ '/ulasbana/' | relative_url }}">Destek</a>
-      <a class="app-button contact-button" href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">EULA</a>
     </div>
   </div>
 
@@ -96,7 +95,6 @@ Bu sayfada geliştirdiğim mobil uygulamaları, destek bağlantılarını ve uyg
     <div class="app-links">
       <a class="app-button privacy-button" href="{{ '/hgs-ihlal-takip-gizlilik/' | relative_url }}">Gizlilik Politikası</a>
       <a class="app-button contact-button" href="{{ '/ulasbana/' | relative_url }}">Destek</a>
-      <a class="app-button contact-button" href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">EULA</a>
     </div>
   </div>
 
