@@ -5,7 +5,7 @@ subtitle: Mobil uygulamalar ve gizlilik politikaları
 permalink: /uygulamalar/
 ---
 
-<!-- last-updated: 2026-09-05 00:11 TRT -->
+<!-- last-updated: 2026-09-08 16:31 TRT -->
 
 <style>
 .app-list {
@@ -68,6 +68,21 @@ permalink: /uygulamalar/
 Bu sayfada geliştirdiğim mobil uygulamaları, destek bağlantılarını ve uygulamalara ait gizlilik politikalarını inceleyebilirsiniz.
 
 <div class="app-list">
+
+  <div class="app-card" id="finansal-asistanim">
+    <div class="app-icon">💳</div>
+    <h2>Finansal Asistanım</h2>
+    <p>
+      Banka hesapları, kredi kartları, KMH/ek hesaplar, krediler, gelir ve giderleri
+      tek yerde takip etmeye; bilanço, nakit akışı ve ödeme planı oluşturmaya yardımcı
+      olan, local-first veri saklama yaklaşımına sahip kişisel finans iOS uygulamasıdır.
+    </p>
+    <div class="app-links">
+      <a class="app-button privacy-button" href="{{ '/finans-asistanim-gizlilik/' | relative_url }}">Gizlilik Politikası</a>
+      <a class="app-button contact-button" href="{{ '/ulasbana/' | relative_url }}">Destek</a>
+      <a class="app-button contact-button" href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">EULA</a>
+    </div>
+  </div>
 
   <div class="app-card" id="hgs-ihlal-takip">
     <div class="app-icon">🚗</div>
