@@ -5,7 +5,7 @@ subtitle: Gizlilik, plaka sorguları ve bildirimler
 permalink: /hgs-ihlal-takip-gizlilik/
 ---
 
-**Son güncelleme tarihi: 5 Eylül 2026**
+**Son güncelleme tarihi: 8 Eylül 2026**
 
 Bu Gizlilik Politikası, **HGS İhlal Takip** uygulamasının hangi bilgileri kullandığını, sorguların nasıl gerçekleştirildiğini ve kullanıcı gizliliğinin nasıl korunduğunu açıklar.
 
@@ -169,24 +169,11 @@ Kullanıcı, ödeme veya itiraz gibi hukuki ya da mali sonuç doğurabilecek iş
 
 Uygulamanın özellikleri, kullanılan backend altyapısı, veri kaynakları veya yasal gereklilikler değiştiğinde bu Gizlilik Politikası güncellenebilir. Güncel politika her zaman bu sayfada yayımlanacaktır.
 
-## 17. Kullanım Koşulları (EULA)
-
-Özel bir son kullanıcı lisans sözleşmesi belirtilmediği sürece Apple'ın standart Kullanım Koşulları geçerlidir:
-
-[Apple Standart Kullanım Koşulları (EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
-
-## 18. Destek ve iletişim
-
-**Geliştirici:** Hasan Pehlivanlar  
-**E-posta:** [bysiskur@gmail.com](mailto:bysiskur@gmail.com)  
-**Destek:** [Ulaş Bana]({{ '/ulasbana/' | relative_url }})  
-**Ülke:** Türkiye
-
 ---
 
 # English Summary — Privacy Policy
 
-**Last updated: September 5, 2026**
+**Last updated: September 8, 2026**
 
 **HGS İhlal Takip** is an independent iOS application that helps users monitor toll-road and bridge violation/debt records in Türkiye by license plate, receive notifications about newly detected records, and set payment reminders.
 
@@ -201,5 +188,15 @@ The current version does not use third-party advertising and does not sell licen
 For privacy or support questions, contact **bysiskur@gmail.com**.
 
 ---
+
+## Lisans (EULA) ve Destek
+
+Özel bir son kullanıcı lisans sözleşmesi belirtilmediği sürece Apple'ın standart **Licensed Application End User License Agreement (EULA)** koşulları geçerlidir.
+
+**Lisans / EULA:** [Apple Standart EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)  
+**Destek:** [Ulaş Bana]({{ '/ulasbana/' | relative_url }})  
+**E-posta:** [bysiskur@gmail.com](mailto:bysiskur@gmail.com)  
+**Geliştirici:** Hasan Pehlivanlar  
+**Ülke:** Türkiye
 
 [← Uygulamalar sayfasına dön]({{ '/uygulamalar/' | relative_url }})
