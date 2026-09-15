@@ -5,7 +5,7 @@ subtitle: Mobil uygulamalar ve gizlilik politikaları
 permalink: /uygulamalar/
 ---
 
-<!-- last-updated: 2026-09-08 23:38 TRT -->
+<!-- last-updated: 2026-09-15 04:10 TRT -->
 
 <style>
 .app-list {
@@ -54,6 +54,11 @@ permalink: /uygulamalar/
   font-weight: 600;
 }
 
+.detail-button {
+  background-color: #ffc400;
+  color: #222222 !important;
+}
+
 .privacy-button {
   background-color: #1f6feb;
   color: #ffffff !important;
@@ -68,6 +73,21 @@ permalink: /uygulamalar/
 Bu sayfada geliştirdiğim mobil uygulamaları, destek bağlantılarını ve uygulamalara ait gizlilik politikalarını inceleyebilirsiniz.
 
 <div class="app-list">
+
+  <div class="app-card" id="adresliyorum">
+    <div class="app-icon">🏠</div>
+    <h2>Adresliyorum</h2>
+    <p>
+      Kiracı, ev sahibi ve konut geçmişini doğrulanmış kiralama ilişkileriyle bir araya getiren;
+      KRC ve EV referans kodları üzerinden kontrollü geçmiş paylaşımı, harita, konut yönetimi,
+      kiralama geçmişi ve karşılıklı değerlendirme özellikleri sunan iOS ve web platformudur.
+    </p>
+    <div class="app-links">
+      <a class="app-button detail-button" href="{{ '/adresliyorum/' | relative_url }}">Uygulama Sayfası</a>
+      <a class="app-button privacy-button" href="{{ '/adresliyorum-gizlilik-bildirimi/' | relative_url }}">Gizlilik Politikası</a>
+      <a class="app-button contact-button" href="{{ '/ulasbana/' | relative_url }}">Destek</a>
+    </div>
+  </div>
 
   <div class="app-card" id="finansal-asistanim">
     <div class="app-icon">💳</div>
