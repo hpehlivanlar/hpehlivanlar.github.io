@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Uygulamalar
-subtitle: Mobil uygulamalar ve gizlilik politikaları
+subtitle: Mobil uygulamalar, web projeleri ve gizlilik politikaları
 permalink: /uygulamalar/
 ---
 
-<!-- last-updated: 2026-09-15 04:10 TRT -->
+<!-- last-updated: 2026-09-16 21:49 TRT -->
 
 <style>
 .app-list {
@@ -70,9 +70,24 @@ permalink: /uygulamalar/
 }
 </style>
 
-Bu sayfada geliştirdiğim mobil uygulamaları, destek bağlantılarını ve uygulamalara ait gizlilik politikalarını inceleyebilirsiniz.
+Bu sayfada geliştirdiğim mobil uygulamaları, web projelerini, destek bağlantılarını ve uygulamalara ait gizlilik politikalarını inceleyebilirsiniz.
 
 <div class="app-list">
+
+  <div class="app-card" id="festival-sepeti">
+    <div class="app-icon">🎉</div>
+    <h2>Festival Sepeti</h2>
+    <p>
+      Konser, festival, tiyatro, sergi, atölye ve diğer etkinlikleri şehir, kategori,
+      tür ve tarihe göre keşfetmeye yardımcı olan; web ve iOS/iPadOS deneyimini aynı
+      etkinlik altyapısında birleştiren etkinlik keşif platformudur.
+    </p>
+    <div class="app-links">
+      <a class="app-button detail-button" href="https://www.festivalsepeti.com" target="_blank" rel="noopener noreferrer">Web Sitesi</a>
+      <a class="app-button privacy-button" href="{{ '/festival-sepeti-gizlilik/' | relative_url }}">Gizlilik Politikası</a>
+      <a class="app-button contact-button" href="{{ '/ulasbana/' | relative_url }}">Destek</a>
+    </div>
+  </div>
 
   <div class="app-card" id="adresliyorum">
     <div class="app-icon">🏠</div>
