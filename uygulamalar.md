@@ -72,7 +72,8 @@ permalink: /uygulamalar/
 
 Bu sayfada geliştirdiğim mobil uygulamaları, web projelerini, destek bağlantılarını ve uygulamalara ait gizlilik politikalarını inceleyebilirsiniz.
 
-<div class="app-list">\n
+<div class="app-list">
+
   <div class="app-card" id="temporal4d">
     <div class="app-icon">🌀</div>
     <h2>Temporal4D</h2>
