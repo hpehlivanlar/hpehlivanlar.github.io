@@ -5,7 +5,7 @@ subtitle: Mobil uygulamalar, web projeleri ve gizlilik politikaları
 permalink: /uygulamalar/
 ---
 
-<!-- last-updated: 2026-09-16 21:49 TRT -->
+<!-- last-updated: 2026-10-04 TRT -->
 
 <style>
 .app-list {
@@ -72,7 +72,23 @@ permalink: /uygulamalar/
 
 Bu sayfada geliştirdiğim mobil uygulamaları, web projelerini, destek bağlantılarını ve uygulamalara ait gizlilik politikalarını inceleyebilirsiniz.
 
-<div class="app-list">
+<div class="app-list">\n
+  <div class="app-card" id="temporal4d">
+    <div class="app-icon">🌀</div>
+    <h2>Temporal4D</h2>
+    <p>
+      Uyumlu LiDAR iPhone ve iPad cihazlarında RGB kamera, derinlik ve hareket verisini
+      cihaz üzerinde birleştirerek uzamsal hareket anıları oluşturan; Spaces, Memories,
+      yerel kayıt, High/Ultra Pro kalite modları ve reklamsız Pro seçenekleri sunan
+      iOS/iPadOS uygulamasıdır.
+    </p>
+    <div class="app-links">
+      <a class="app-button privacy-button" href="{{ '/temporal4d-gizlilik/' | relative_url }}">Gizlilik Politikası</a>
+      <a class="app-button contact-button" href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/" target="_blank" rel="noopener noreferrer">Lisans Sözleşmesi (EULA)</a>
+      <a class="app-button contact-button" href="{{ '/ulasbana/' | relative_url }}">Destek</a>
+    </div>
+  </div>
+
 
   <div class="app-card" id="festival-sepeti">
     <div class="app-icon">🎉</div>
